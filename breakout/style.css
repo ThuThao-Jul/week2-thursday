@@ -1,0 +1,6 @@
+*{
+    box-sizing: border-box;
+}
+#myCanvas{
+    border: 1px solid blue;
+}
